@@ -1,0 +1,17 @@
+{
+  "name": "Tabassum-Shaikh-master",
+  "version": "1.0.0",
+  
+  "dependencies": {
+    "testcafe": "^1.18.6"
+  },
+  "engines" : { 
+    "npm" : "8.x.x",
+    "node" : "16.x.x"
+  },
+
+  "scripts": {
+    "test": "testcafe --skip-js-errors",
+    "test:debug": "testcafe --debug-on-fail --skip-js-errors"
+  }
+}

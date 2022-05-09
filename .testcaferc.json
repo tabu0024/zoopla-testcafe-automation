@@ -1,0 +1,6 @@
+{
+    "browsers": ["chrome"],
+    "src": ["./zoopla-test-automation/src/features/"],
+    "disablePageCaching": false,
+    "developmentMode": true
+}
